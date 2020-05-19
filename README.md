@@ -1,3 +1,6 @@
+<h1>About Project</h1>
+<p>This project is for practice building UIs with Angular. Final file is served on my site and can be viewed  <a href="http://angular-tour-of-heroes.emmykaye.com/">here</a></p>
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
